@@ -1,0 +1,23 @@
+{
+  "name": "testing_wp",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "push": "git add . && git commit -m 'update' && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Serhii-Soloviov/testing_wp.git"
+  },
+  "author": "Serg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Serhii-Soloviov/testing_wp/issues"
+  },
+  "homepage": "https://github.com/Serhii-Soloviov/testing_wp#readme",
+  "dependencies": {
+    "webpack": "^5.75.0"
+  }
+}
